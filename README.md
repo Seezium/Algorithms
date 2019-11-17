@@ -1,4 +1,1 @@
-# Algorithms
-
-# Different Algorithm Practice Problems
-
+Practice problems with algorithms
