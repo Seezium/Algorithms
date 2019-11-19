@@ -1,3 +1,4 @@
 Practice problems with algorithms
-Level 1 = Hardest
-Level 8 = Easiest
+<br />Level 8 = Easiest
+<br />Level 1 = Hardest
+
