@@ -1,0 +1,1 @@
+Enter in a range (start,finish) and the output will be all prime numbers in that range or the length
